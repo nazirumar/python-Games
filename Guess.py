@@ -1,5 +1,5 @@
 import random
-
+print('Interrupting cow wh', end='')
 
 guessesTaken=0
 
